@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="config_tsp_gg" category="opl">
+            			
+            <ref name="tsp_gg.mod" type="model">
+			</ref>
+            			
+            <ref name="tsp_gg.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
