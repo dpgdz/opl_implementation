@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="config_5" category="opl">
+            			
+            <ref name="knapsack_01.mod" type="model">
+			</ref>
+            			
+            <ref name="knapsack_01.dat" type="data">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="config_24" category="opl">
+            			
+            <ref name="knapsack_01.mod" type="model">
+			</ref>
+            			
+            <ref name="knapsack_01_24.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="config_104" category="opl">
+            			
+            <ref name="knapsack_multiple.mod" type="model">
+			</ref>
+            			
+            <ref name="knapsack_multiple.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>

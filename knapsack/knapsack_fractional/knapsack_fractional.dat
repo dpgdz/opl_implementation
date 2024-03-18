@@ -1,0 +1,12 @@
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: duongphuonggiang
+ * Creation Date: Mar 7, 2024 at 5:53:59 PM
+ *********************************************/
+
+ Nbitems= 3;
+ weights=[10,20,30];
+ profits=[60,100,120];
+ capacity=50;
+ 
+ 

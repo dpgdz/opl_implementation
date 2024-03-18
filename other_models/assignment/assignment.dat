@@ -1,0 +1,17 @@
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: duongphuonggiang
+ * Creation Date: Mar 17, 2024 at 3:11:57 PM
+ *********************************************/
+//https://www.brainkart.com/article/Solution-of-assignment-problems-%28Hungarian-Method%29_39044
+// data in the link above
+
+job= 5;
+n= 5;
+cost = [
+[8,4,2,6,1],
+[0,9,5,5,4],
+[3,8,9,2,6],
+[4,3,1,0,3],
+[9,5,8,9,5]
+];

@@ -1,0 +1,16 @@
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: duongphuonggiang
+ * Creation Date: Mar 8, 2024 at 3:18:30 PM
+ *********************************************/
+
+//https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_multiple/knapsack_multiple.html?fbclid=IwAR08fW4BlKRVLrECPiPoZ2vpwG3hRaFVnGw5Tny7tSlTuWJb_1bt5WalJwQ 
+// P03 is a set of 10 weights and profits for 4 knapsacks 31, 37, 48, 152. Problems 1, 2, 3 and 4 use the same set of weights and profits.
+
+ Nbitems= 10;
+ knapss=4;
+ 
+ capacity=[31,37,48,152];
+ weights=[23,31,29,44,53,38,63,85,89,82];
+ profits=[92,57,49,68,60,43,67,84,87,72];
+ 

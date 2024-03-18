@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="ufl.config" category="opl">
+            			
+            <ref name="ufl.mod" type="model">
+			</ref>
+            			
+            <ref name="ufl .dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
