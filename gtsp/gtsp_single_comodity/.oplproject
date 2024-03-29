@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="Configuration1" category="opl">
+            			
+            <ref name="gtsp_single_comodity.mod" type="model">
+			</ref>
+            			
+            <ref name="gtsp_single_comodity_99.dat" type="data">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="Configuration14" category="opl">
+            			
+            <ref name="gtsp_single_comodity.mod" type="model">
+			</ref>
+            			
+            <ref name="gtsp_single_comodity_14.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
